@@ -1,7 +1,7 @@
 body{
 
-    font-family: "Arial";
-    text_align: left;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
     color: #333;
 }
 
@@ -9,7 +9,7 @@ body{
 
     width: 70%;
     padding:1em;
-    text_align: left;
+    text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
 
